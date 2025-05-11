@@ -117,8 +117,8 @@ document.addEventListener('DOMContentLoaded', function () {
     const phrases = [
         "Web Developer",
         "UI/UX Designer",
-        "Creative Technologist",
-        "Digital Innovator"
+        "Technical Support Specialist",
+        "Quality Assurance"
     ];
     let currentPhraseIndex = 0;
     let currentCharIndex = 0;
